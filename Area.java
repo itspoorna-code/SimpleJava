@@ -4,7 +4,7 @@ public class Area{
     public static void main(String[] args) {
      
 
-        double radius = 5.21
+        double radius = 5.21;
 
         double area = Math.PI * Math.pow(radius, 2);
 
